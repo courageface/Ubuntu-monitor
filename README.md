@@ -1,4 +1,4 @@
-# sys-monitor
+# system state logger
 A script that logs system states chronologically working on ubuntu.
 
 Log information including:
