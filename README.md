@@ -1,5 +1,5 @@
 # system state logger
-A script that logs system states chronologically working on ubuntu.
+A script that logs system states chronologically working on ubuntu 16.04.
 
 Log information including:
 * current processes
